@@ -1,0 +1,22 @@
+[
+    "Market_Return_LOO",
+    "Market_Breadth_LOO",
+    "DayOfWeek",
+    "Price_SMA_10_Ratio",
+    "Return_Lag_1",
+    "Relative_Sector_Return_LOO",
+    "Momentum_5",
+    "Sector_Return_LOO",
+    "ATR_14_Pct",
+    "Price_SMA_5_Ratio",
+    "Relative_Volume",
+    "Price_SMA_200_Ratio",
+    "Relative_Market_Return_LOO",
+    "Quarter",
+    "Return_Lag_3",
+    "Return_Lag_10",
+    "Close_Position",
+    "MACD_Histogram",
+    "Return_Lag_2",
+    "MACD"
+]
